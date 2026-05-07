@@ -72,7 +72,7 @@ cp -r <skill-folder> ~/.claude/skills/
 
 이 저장소에 포함된 예제 스킬:
 
-- (추가 예정)
+- [markdown-toc](markdown-toc/) — 마크다운 파일의 TOC 자동 생성/갱신
 
 ## 참고
 
